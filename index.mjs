@@ -79,4 +79,5 @@ const Umbuchung = "Umbuchung";
     console.log(maxSavingsByYear);
     console.log(totalByYear);
     console.log(maxByYear);
+    console.log(savings);
 })();
