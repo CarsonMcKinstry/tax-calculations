@@ -1,0 +1,11 @@
+{
+  "name": "tax-calculations",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Carson McKinstry <carson.mckinstry@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  },
+  "type": "module"
+}
